@@ -1,0 +1,9 @@
+crewai
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+reportlab
+pydantic
+google-generativeai  # For Gemini API 
